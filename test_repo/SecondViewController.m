@@ -1,18 +1,18 @@
 //
-//  FirstViewController.m
+//  SecondViewController.m
 //  test_repo
 //
-//  Created by Maisa Solutions Pvt Ltd on 26/02/14.
+//  Created by Maisa Solutions on 2/26/14.
 //  Copyright (c) 2014 Maisa Solutions Pvt Ltd. All rights reserved.
 //
 
-#import "FirstViewController.h"
+#import "SecondViewController.h"
 
-@interface FirstViewController ()
+@interface SecondViewController ()
 
 @end
 
-@implementation FirstViewController
+@implementation SecondViewController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
